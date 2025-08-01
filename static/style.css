@@ -1,0 +1,97 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  background: #1e1e1e;
+  width: 50%;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);
+}
+
+h1 {
+  color: #00ff88;
+  text-shadow: 0 0 10px #00ff88;
+}
+
+form input[type="file"] {
+  background: #333;
+  color: #fff;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #00ff88;
+  border-radius: 5px;
+}
+
+form button {
+  background: linear-gradient(90deg, #00ff88, #00ffaa);
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.flash {
+  padding: 10px;
+  margin: 10px auto;
+  width: 80%;
+  border-radius: 5px;
+}
+
+.flash.danger { background-color: #f44336; color: white; }
+.flash.success { background-color: #4CAF50; color: white; }
+
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background: #1e1e1e;
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.2);
+}
+
+th, td {
+  border: 1px solid #333;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #222;
+  color: #00ff88;
+}
+
+.badge {
+  padding: 5px 10px;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+}
+
+.low { background-color: #4CAF50; }
+.medium { background-color: #FFC107; color: black; }
+.high { background-color: #F44336; }
+
+.download-btn {
+  background: linear-gradient(90deg, #00ff88, #00ffaa);
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-top: 20px;
+  display: inline-block;
+  box-shadow: 0 0 10px #00ff88;
+}
+
+.footer {
+  margin-top: 20px;
+  color: #aaa;
+}
