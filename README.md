@@ -80,11 +80,3 @@ Promo Abuse Detection/
 <img width="1361" height="618" alt="Screenshot 2025-08-05 141155" src="https://github.com/user-attachments/assets/6ff37206-d065-40a3-86f0-ba4f482a2ebe" />
 
 ---
-
-## 🤝 Contributing
-Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.
-
----
-
-## 🛡️ License
-Distributed under the MIT License.
