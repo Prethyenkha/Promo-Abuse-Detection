@@ -69,13 +69,15 @@ Promo Abuse Detection/
 
 ---
 
-## 📸 Screenshots
+## 📸 App Preview
 
 ### 🔹 Upload CSV Page
-![Upload Page](screenshot-upload.png)
+
+<img width="1365" height="604" alt="Screenshot 2025-08-05 141120" src="https://github.com/user-attachments/assets/db403104-5130-49ec-bc61-4a84d2bcc3a5" />
 
 ### 🔹 Risk Level Output
-![Results Page](screenshot-results.png)
+
+<img width="1361" height="618" alt="Screenshot 2025-08-05 141155" src="https://github.com/user-attachments/assets/6ff37206-d065-40a3-86f0-ba4f482a2ebe" />
 
 ---
 
